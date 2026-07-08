@@ -1,4 +1,4 @@
-# ESP32 Alexa Home Automation
+# Smart Voice Home Automation
 
 An ESP32-based smart home automation project using **Arduino IoT Cloud** and **Amazon Alexa** to control four home lights through voice commands. The project also features automatic bedroom light control using an LDR sensor.
 
