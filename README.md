@@ -7,7 +7,7 @@ An ESP32-based smart home automation project using **Arduino IoT Cloud** and **A
 - Voice control using Amazon Alexa
 - Arduino IoT Cloud integration
 - Controls four home lights
-- Automatic bedroom light control using an LDR
+- Automatic bedroom light control using an LDR sensor
 - ESP32-based implementation
 - Active LOW relay module support
 
@@ -15,9 +15,11 @@ An ESP32-based smart home automation project using **Arduino IoT Cloud** and **A
 
 - ESP32 Development Board
 - 4-Channel Relay Module
-- LDR Sensor
+- LDR Sensor Module
+- AC Light Bulbs
 - Power Supply
 - Wi-Fi Connection
 
 ## Wiring Diagram
-!(Wiring_Diagram.png)
+
+![Wiring Diagram](Wiring_Diagram.png)
